@@ -1,6 +1,6 @@
 /**
  * DO IT YOURSELF: BURGLAR ALARM
- * Arno Puder, Pratik Jaiswal
+ * Pratik Jaiswal
  */
 
 package com.mobile.arduino_android;
